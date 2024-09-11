@@ -1,1 +1,2 @@
-# My-First-work
+# Medical Student Mental Health
+This repository is my work on the research done on medical student mental health. I will be publicly analysing a dataset in order to find relationships between variables in the life of typical medical students in order to find possible solutions to whatever dillema they may have in their lives. This will help to treat the doctor who will soon be treating patients from the society.
